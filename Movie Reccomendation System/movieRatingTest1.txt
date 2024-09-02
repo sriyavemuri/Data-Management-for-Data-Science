@@ -1,0 +1,186 @@
+Heat (1995)|4.0|1
+Heat (1995)|4.0|6
+Heat (1995)|5.0|11
+Heat (1995)|4.0|18
+Heat (1995)|4.0|23
+Heat (1995)|4.5|24
+Heat (1995)|3.5|28
+Heat (1995)|3.0|32
+Heat (1995)|3.0|44
+Heat (1995)|4.0|45
+Sudden Death (1995)|4.0|151
+Sudden Death (1995)|3.0|179
+Sudden Death (1995)|3.0|217
+Sudden Death (1995)|2.0|269
+Sudden Death (1995)|3.0|270
+Sudden Death (1995)|5.0|337
+Sudden Death (1995)|3.0|353
+Sudden Death (1995)|3.0|364
+Sudden Death (1995)|3.0|389
+Sudden Death (1995)|3.0|402
+GoldenEye (1995)|3.0|6
+GoldenEye (1995)|2.0|8
+GoldenEye (1995)|3.0|11
+GoldenEye (1995)|2.0|19
+GoldenEye (1995)|5.0|21
+GoldenEye (1995)|3.0|26
+GoldenEye (1995)|4.0|31
+GoldenEye (1995)|5.0|34
+GoldenEye (1995)|5.0|42
+GoldenEye (1995)|4.0|43
+Cutthroat Island (1995)|4.0|6
+Cutthroat Island (1995)|2.0|19
+Cutthroat Island (1995)|4.0|93
+Cutthroat Island (1995)|5.0|136
+Cutthroat Island (1995)|4.0|284
+Cutthroat Island (1995)|2.0|314
+Cutthroat Island (1995)|2.0|414
+Cutthroat Island (1995)|1.0|501
+Cutthroat Island (1995)|3.0|541
+Cutthroat Island (1995)|3.0|559
+Nixon (1995)|4.0|84
+Nixon (1995)|5.0|90
+Nixon (1995)|4.0|109
+Nixon (1995)|4.0|182
+Nixon (1995)|4.0|206
+Nixon (1995)|5.0|270
+Nixon (1995)|4.0|302
+Nixon (1995)|3.0|337
+Nixon (1995)|4.0|372
+Nixon (1995)|3.0|385
+Sense and Sensibility (1995)|4.0|6
+Sense and Sensibility (1995)|3.0|31
+Sense and Sensibility (1995)|4.0|33
+Sense and Sensibility (1995)|3.0|38
+Sense and Sensibility (1995)|5.0|40
+Sense and Sensibility (1995)|3.0|54
+Sense and Sensibility (1995)|3.5|68
+Sense and Sensibility (1995)|1.0|71
+Sense and Sensibility (1995)|5.0|84
+Sense and Sensibility (1995)|5.0|90
+Powder (1995)|4.0|6
+Powder (1995)|3.0|32
+Powder (1995)|2.0|71
+Powder (1995)|2.5|111
+Powder (1995)|3.0|181
+Powder (1995)|4.0|198
+Powder (1995)|4.0|201
+Powder (1995)|5.0|234
+Powder (1995)|3.0|263
+Powder (1995)|1.0|266
+Leaving Las Vegas (1995)|3.0|6
+Leaving Las Vegas (1995)|4.0|14
+Leaving Las Vegas (1995)|2.0|31
+Leaving Las Vegas (1995)|4.0|32
+Leaving Las Vegas (1995)|3.0|33
+Leaving Las Vegas (1995)|2.5|36
+Leaving Las Vegas (1995)|3.5|64
+Leaving Las Vegas (1995)|3.5|68
+Leaving Las Vegas (1995)|5.0|84
+Leaving Las Vegas (1995)|5.0|90
+Grumpier Old Men (1995)|4.0|1
+Grumpier Old Men (1995)|5.0|6
+Grumpier Old Men (1995)|3.0|19
+Grumpier Old Men (1995)|3.0|32
+Grumpier Old Men (1995)|4.0|42
+Grumpier Old Men (1995)|5.0|43
+Grumpier Old Men (1995)|3.0|44
+Grumpier Old Men (1995)|4.0|51
+Grumpier Old Men (1995)|3.0|58
+Grumpier Old Men (1995)|3.5|64
+Waiting to Exhale (1995)|3.0|6
+Waiting to Exhale (1995)|3.0|14
+Waiting to Exhale (1995)|3.0|84
+Waiting to Exhale (1995)|3.0|162
+Waiting to Exhale (1995)|1.0|262
+Waiting to Exhale (1995)|2.0|411
+Waiting to Exhale (1995)|1.5|600
+Father of the Bride Part II (1995)|5.0|6
+Father of the Bride Part II (1995)|3.0|31
+Father of the Bride Part II (1995)|5.0|43
+Father of the Bride Part II (1995)|3.0|45
+Father of the Bride Part II (1995)|4.0|58
+Father of the Bride Part II (1995)|4.0|66
+Father of the Bride Part II (1995)|2.0|68
+Father of the Bride Part II (1995)|3.0|84
+Father of the Bride Part II (1995)|4.0|103
+Father of the Bride Part II (1995)|4.0|107
+Sabrina (1995)|4.0|6
+Sabrina (1995)|3.0|14
+Sabrina (1995)|2.0|19
+Sabrina (1995)|4.0|31
+Sabrina (1995)|4.0|32
+Sabrina (1995)|1.0|33
+Sabrina (1995)|3.0|42
+Sabrina (1995)|5.0|43
+Sabrina (1995)|3.0|45
+Sabrina (1995)|4.0|51
+Toy Story (1995)|4.0|1
+Toy Story (1995)|4.0|5
+Toy Story (1995)|4.5|7
+Toy Story (1995)|2.5|15
+Toy Story (1995)|4.5|17
+Toy Story (1995)|3.5|18
+Toy Story (1995)|4.0|19
+Toy Story (1995)|3.5|21
+Toy Story (1995)|3.0|27
+Toy Story (1995)|5.0|31
+Jumanji (1995)|4.0|6
+Jumanji (1995)|4.0|8
+Jumanji (1995)|3.0|18
+Jumanji (1995)|3.0|19
+Jumanji (1995)|3.0|20
+Jumanji (1995)|3.5|21
+Jumanji (1995)|4.0|27
+Jumanji (1995)|4.5|51
+Jumanji (1995)|4.0|62
+Jumanji (1995)|2.5|68
+Tom and Huck (1995)|3.0|6
+Tom and Huck (1995)|1.0|20
+Tom and Huck (1995)|5.0|43
+Tom and Huck (1995)|3.0|274
+Tom and Huck (1995)|2.0|372
+Tom and Huck (1995)|3.0|414
+Tom and Huck (1995)|3.0|436
+Tom and Huck (1995)|3.0|501
+Balto (1995)|3.0|6
+Balto (1995)|3.0|19
+Balto (1995)|4.0|20
+Balto (1995)|2.0|288
+Balto (1995)|4.0|304
+Balto (1995)|3.0|328
+Balto (1995)|3.0|476
+Balto (1995)|3.0|509
+Casino (1995)|4.0|6
+Casino (1995)|4.5|18
+Casino (1995)|2.5|28
+Casino (1995)|5.0|42
+Casino (1995)|4.0|61
+Casino (1995)|5.0|64
+Casino (1995)|3.5|68
+Casino (1995)|4.5|88
+Casino (1995)|4.5|91
+Casino (1995)|4.5|100
+Copycat (1995)|5.0|6
+Copycat (1995)|5.0|42
+Copycat (1995)|3.0|58
+Copycat (1995)|3.5|64
+Copycat (1995)|3.5|91
+Copycat (1995)|4.0|99
+Copycat (1995)|3.0|121
+Copycat (1995)|3.0|140
+Copycat (1995)|1.0|160
+Copycat (1995)|3.0|181
+Shanghai Triad (Yao a yao yao dao waipo qiao) (1995)|4.0|325
+Shanghai Triad (Yao a yao yao dao waipo qiao) (1995)|1.0|527
+Shanghai Triad (Yao a yao yao dao waipo qiao) (1995)|4.0|603
+Dead Man Walking (1995)|4.0|5
+Dead Man Walking (1995)|5.0|6
+Dead Man Walking (1995)|4.0|11
+Dead Man Walking (1995)|4.0|18
+Dead Man Walking (1995)|4.0|32
+Dead Man Walking (1995)|5.0|33
+Dead Man Walking (1995)|4.0|44
+Dead Man Walking (1995)|3.0|51
+Dead Man Walking (1995)|4.0|58
+Dead Man Walking (1995)|4.0|64
