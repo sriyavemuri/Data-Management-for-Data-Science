@@ -1,0 +1,15 @@
+-- PART ONE: Database Schema
+-- side note: my netID is sv660
+mysql
+create database sv660_music; -- creating music database
+show databases; -- verifying database was created
+use sv660_music -- change directory
+create table Artist( artist_id mediumint auto_increment primary key, artist_name varchar(255) not null, artist_type enum('individual','band') not null ); -- creating Artist table
+create table Album ( album_ID mediumint auto_increment primary key, album_name varchar(255) not null, release_date date, artist_ID mediumint, foreign key (artist_ID) references Artist(artist_ID) ); -- creating Album table
+create table Song ( song_ID mediumint auto_increment primary key, song_name varchar(255) not null, artist_ID mediumint, is_Single boolean not null, release_date date, album_ID mediumint, foreign key (artist_ID) references Artist(artist_ID), foreign key (album_ID) references Album(album_ID) ); -- creating Song table
+create table Genre ( genre_ID smallint auto_increment primary key, genre_name varchar(255) not null ); -- creating Genre table
+create table Song_To_Genre ( song_ID mediumint, genre_ID smallint, foreign key (song_ID) references Song(song_ID), foreign key (genre_ID) references Genre(genre_ID) ); -- creating table that correlates Songs to Genres
+create table User ( user_ID int auto_increment primary key, username varchar(255) not null ); -- creating User table
+create table Playlist ( playlist_ID int auto_increment primary key, playlist_name varchar(255) not null, playlist_creation_date_and_time datetime not null, user_ID int, foreign key (user_ID) references User(user_ID) ); -- creating Playlist table
+create table Songs_In_Playlist( playlist_ID int, song_ID mediumint, foreign key (playlist_ID) references Playlist(playlist_ID), foreign key (song_ID) references Song(song_ID)); -- creating table that correlates the songs in a playlist
+create table Rating(  rating_ID int auto_increment primary key,  rating int not null, constraint rating_one check (rating > 0), constraint rating_two check (rating < 6), rating_type enum('song','album','playlist') not null,  song_ID mediumint,  playlist_ID int,  album_ID mediumint,  user_ID int not null,  rating_date_and_time datetime not null,  foreign key (song_ID) references Song(song_ID),  foreign key (playlist_ID) references Playlist(playlist_ID),  foreign key (album_ID) references Album(album_ID)  ); -- creating Ratings table
